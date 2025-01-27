@@ -34,7 +34,6 @@ classifiers = [
     "Topic :: Scientific/Engineering"
 ]
 dependencies = [
-    "Graphillion>=1.5",
     "joblib>=0.8.0",
     "more_itertools>=8.13.0",
     "numpy<2.0.0",
